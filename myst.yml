@@ -1,0 +1,14 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  authors:
+    - name: Franklin Koch
+      github: fwkoch
+      affiliation: Curvenote
+site:
+  template: book-theme
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
